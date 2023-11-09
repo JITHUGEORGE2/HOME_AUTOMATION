@@ -1,0 +1,5 @@
+2 ulra sonic sencor
+1 arduno
+relay
+16x2 lcd display
+9 v adaptor
